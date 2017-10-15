@@ -1,0 +1,14 @@
+---
+unified font repository version: "0.2"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Boeticher
+  tags:
+  - fantasy
+  - condensed
+  - incomplete
+  repository url: https://github.com/user/Demo
+  project url: http://velvetyne.fr/fonts/boeticher/
+  sample text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...
